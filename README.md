@@ -5,8 +5,8 @@ OpenFlow, OpenvSwitch and KVM SDN Lab Installation App
 
 Post with more information:
 http://networkstatic.net/openflow-openvswitch-and-kvm-sdn-lab-installation-app/
-Twitters @networkstatic or Brent Salisbury
 
+Twitters @networkstatic or Brent Salisbury
 
 This installs OpenvSwitch, KVM, Git(Hub) and an OpenFlow
 Controller FloodLight (optional). It also downloads a 16Mb
